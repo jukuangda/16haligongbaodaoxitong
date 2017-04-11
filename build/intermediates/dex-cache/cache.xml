@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ju/AndroidStudioProjects/16haligongbaodaoxitong/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ce917da7b7a504b27c259e91f8717ac12efaeafb">
+        <dex dex="/Users/ju/AndroidStudioProjects/16haligongbaodaoxitong/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8aec00a4eab6a479b6f5e76cd87e4778242b0889/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ju/AndroidStudioProjects/16haligongbaodaoxitong/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/ju/AndroidStudioProjects/16haligongbaodaoxitong/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-23.4.0_3643f868a343c397ab092d7ec1cc7727c6051dc4.jar" />
+    </item>
+    <item
+        jar="/Users/ju/AndroidStudioProjects/16haligongbaodaoxitong/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/ju/AndroidStudioProjects/16haligongbaodaoxitong/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_3643f868a343c397ab092d7ec1cc7727c6051dc4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ju/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/ju/AndroidStudioProjects/16haligongbaodaoxitong/app/build/intermediates/pre-dexed/release/support-annotations-23.4.0_a47b64c341fd4c28f389301ab68d69a956275662.jar" />
+    </item>
+    <item
+        jar="/Users/ju/AndroidStudioProjects/16haligongbaodaoxitong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/ju/AndroidStudioProjects/16haligongbaodaoxitong/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_91279e7e03ad9145fa5e08f07d4ad04e67ac67ae/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ju/AndroidStudioProjects/16haligongbaodaoxitong/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/ju/AndroidStudioProjects/16haligongbaodaoxitong/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.4.0_5c678de46e6fdc1bb1865da09c61249193c43b7d.jar" />
+    </item>
+    <item
+        jar="/Users/ju/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/ju/AndroidStudioProjects/16haligongbaodaoxitong/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_a47b64c341fd4c28f389301ab68d69a956275662/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ju/AndroidStudioProjects/16haligongbaodaoxitong/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/ju/AndroidStudioProjects/16haligongbaodaoxitong/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_5c678de46e6fdc1bb1865da09c61249193c43b7d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ju/AndroidStudioProjects/16haligongbaodaoxitong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/ju/AndroidStudioProjects/16haligongbaodaoxitong/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.4.0_91279e7e03ad9145fa5e08f07d4ad04e67ac67ae.jar" />
+    </item>
+    <item
+        jar="/Users/ju/AndroidStudioProjects/16haligongbaodaoxitong/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="88872a61a7e2e3ff3ef325dcf6038756b97debab">
+        <dex dex="/Users/ju/AndroidStudioProjects/16haligongbaodaoxitong/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_93f23088370fda296b3afe7404b3c9b9f3b0f852/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ju/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/Users/ju/AndroidStudioProjects/16haligongbaodaoxitong/app/build/intermediates/pre-dexed/release/glide-3.6.0_00a0a0f9759fdfb608b249352a6db9b79876e87e.jar" />
+    </item>
+    <item
+        jar="/Users/ju/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/Users/ju/AndroidStudioProjects/16haligongbaodaoxitong/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.6.0_00a0a0f9759fdfb608b249352a6db9b79876e87e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ju/AndroidStudioProjects/16haligongbaodaoxitong/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/ju/AndroidStudioProjects/16haligongbaodaoxitong/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_5ea48808ab72eec5111b7e33d697cb3b89aff1c9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ju/AndroidStudioProjects/16haligongbaodaoxitong/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/ju/AndroidStudioProjects/16haligongbaodaoxitong/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-23.4.0_25fd513c22a1af5aced5bf76af91d47842d75594.jar" />
+    </item>
+    <item
+        jar="/Users/ju/AndroidStudioProjects/16haligongbaodaoxitong/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/ju/AndroidStudioProjects/16haligongbaodaoxitong/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_25fd513c22a1af5aced5bf76af91d47842d75594/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ju/AndroidStudioProjects/16haligongbaodaoxitong/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/ju/AndroidStudioProjects/16haligongbaodaoxitong/app/build/intermediates/pre-dexed/release/internal_impl-23.4.0_5ea48808ab72eec5111b7e33d697cb3b89aff1c9.jar" />
+    </item>
+
+</items>
